@@ -1,11 +1,18 @@
-font-family: 'Akaya Telivigala', cursive;
-h1 {
-    color:aquamarine
+body {
+    font-family: 'Akaya Telivigala', cursive;
 }
-.image {
-    width: 300px;
-    height: 200px;
+.true-path {
+    background-image: url(/one-tree.jpg);
+    width: 100%;
+    height: 100%;
 }
-li {
-    float:
-  }
+.middle-path {
+    text-align: center;
+}
+#person {
+    font-size: large;
+}
+.paragraph {
+    width: 500px;
+    margin: auto;
+}

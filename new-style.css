@@ -1,0 +1,72 @@
+body {
+    font-family: 'Akaya Telivigala', cursive;
+    background-image: url(/pencil.jpg);
+    background-size: auto;
+}
+h1 {
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+}
+span {
+    color: rgb(255, 38, 0);
+}
+.welcoming {
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.teenidea {
+    width: 90%;
+    margin-bottom: 50px;
+    margin-top: -20px;
+}
+.welcoming-div {
+    width: 50%;
+    margin-left: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(241, 78, 28), orange );
+    padding: 5px 15px;
+    font-weight: 700;
+    color: azure;
+}
+.welcoming-div2 {
+    width: 50%;
+}
+.teenidea1 {
+    width: 100%;
+}
+.div-text {
+    margin-right: 30px;
+}
+.experience {
+    display: flex;
+    width: 100%;
+    margin-bottom: 70px;
+    margin-top: -30px;
+}
+.ex-div {
+    width: 50%;
+    border-left: 5px solid;
+    box-shadow: 5px 5px 7px gray;
+    padding: 25px;
+    margin: 50px;
+    border-image-source: linear-gradient(rgb(255, 174, 0), rgb(0, 119, 255));
+    border-image-slice: 1;
+}
+.ex-div1 {
+    width: 50%;
+    border-left: 5px solid ;
+    box-shadow: 5px 5px 7px gray;
+    padding: 25px;
+    margin: 50px;
+    border-image-source: linear-gradient(rgb(255, 0, 106), rgb(255, 166, 0));
+    border-image-slice: 1;
+}
+footer {
+    text-align: center;
+}
