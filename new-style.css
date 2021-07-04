@@ -1,7 +1,6 @@
 body {
     font-family: 'Akaya Telivigala', cursive;
-    background-image: url(/pencil.jpg);
-    background-size: auto;
+    margin: 0%;
 }
 h1 {
     font-size: 50px;
@@ -15,7 +14,24 @@ span {
 .welcoming {
     display: flex;
     width: 100%;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
+    background-image: url(/top-banner.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.welcoming-div3 {
+    display: flex;
+    width: 100%;
+    margin-bottom: 90px;
+    background-image: url(/dream-bg.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: right;
+    
+}
+.exp-sec {
+    margin-top: -50px;
 }
 .teenidea {
     width: 90%;
@@ -42,6 +58,7 @@ span {
 }
 .div-text {
     margin-right: 30px;
+    margin-left: 70px;
 }
 .experience {
     display: flex;
